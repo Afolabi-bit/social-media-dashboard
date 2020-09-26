@@ -256,7 +256,7 @@ img {
 /*OVERVIEW SECTION*/
 
 .main-container .overview {
-  padding: 20px 0 0;
+  padding: 15px 0 0;
   width: 100%;
 }
 
@@ -264,7 +264,7 @@ img {
   font-size: 25px;
   font-weight: 600;
   color: var(--text-light);
-  margin-bottom: 20px;
+  margin-bottom: 15px;
 }
 
 .main-container .overview .cards-wrapper {
